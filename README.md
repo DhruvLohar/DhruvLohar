@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **full stack development, React Native, UI/UX Designing with Figma**
 
-- 📫 How to reach me **dhruvlohar09@gmail.com**
+- 📫 How to reach me **dhruvlohar09@gmail.com**, **<a href="https://instagram.com/d.got.bugs">Instagram</a>**
 
 - ⚡ Fun fact **I wish I was AI Generated 🤖**
 
