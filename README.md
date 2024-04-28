@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Dhruv Lohar</h1>
 <h3 align="left">Designer • Developer • Freelancer</h3>
 
-- 🔭 I’m currently working on **Fitzire and Attract Clothing**
+- 🔭 I’m currently working on **<a href="https://fitzire.com/">Fitzire</a> and Attract Clothing**
 
 - 🌱 I’m currently learning **Remix, Hydrogen Shopify**
 
