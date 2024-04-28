@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dhruv Lohar</h1>
-<h3 align="center">Designer • Developer • Freelancer</h3>
+<h1 align="left">Hi 👋, I'm Dhruv Lohar</h1>
+<h3 align="left">Designer • Developer • Freelancer</h3>
 
 - 🔭 I’m currently working on **Fitzire and Attract Clothing**
 
