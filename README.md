@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **<a href="https://fitzire.com/">Fitzire</a> and <a href="https://attractclothing.in/">Attract Clothing</a>**
 
-- 🌱 I’m currently learning **Remix, Hydrogen Shopify**
+- 🌱 I’m currently learning **Remix, Hydrogen Shopify, GeoDjango**
 
 - 💬 Ask me about **full stack development, React Native, UI/UX Designing with Figma**
 
