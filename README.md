@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Dhruv Lohar</h1>
 <h3 align="left">Designer • Developer • Freelancer</h3>
 
-- 🔭 I’m currently working on **<a href="https://fitzire.com/">Fitzire</a> and <a href="https://attractclothing.in/">Attract Clothing</a>**
-
-- 🌱 I’m currently learning **Remix, Hydrogen Shopify, GeoDjango, Hyperledger Fabric**
+- 🌱 Learning **Remix, Hydrogen Shopify, GeoDjango, Hyperledger Fabric**
 
 - 💬 Ask me about **full stack development, React Native, UI/UX Designing with Figma, Blockchain**
 
